@@ -10,6 +10,10 @@ This is simple tool that helps you build the optimal lineup for the day or week.
   * Displays top optimal lineup for the day (These players will be highlighted in blue)
   * Displays Projections based on matchup, injuries, etc.
 
+### Installation
+
+[Click Here](https://chrome.google.com/webstore/detail/fanduel-lineup-optimizer/hopjbdcdcgpgcnjhknddoapbpildofoo)
+
 ### Questions/Comment
 
 Please post suggestions, bugs, or questions to my email: pauras53@yahoo.com
