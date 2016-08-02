@@ -18,7 +18,6 @@ Please post suggestions, bugs, or questions to my email: pauras53@yahoo.com
 
 ### Notes
 
-* Please do not worry about me stealing any of your information. Please take a look at the code to validate this.
 * RotoGrinder Notes (https://rotogrinders.com)
   * The projected optimal lineup is generated each morning at 11 AM ET for MLB, 12 PM ET for NBA, and each week on Wednesdays for NFL.
   * Lineups are manually updated by RotoGrinders in the event of injuries and news updates.
