@@ -12,14 +12,10 @@ This is simple tool that helps you build the optimal lineup for the day or week.
 
 ### [Installation](https://chrome.google.com/webstore/detail/fanduel-lineup-optimizer/hopjbdcdcgpgcnjhknddoapbpildofoo)
 
-### Questions/Comment
+<!--### Notes-->
 
-Please post suggestions, bugs, or questions to my email: pauras53@yahoo.com
+<!--* RotoGrinder Notes (https://rotogrinders.com)-->
+<!--  * The projected optimal lineup is generated each morning at 11 AM ET for MLB, 12 PM ET for NBA, and each week on Wednesdays for NFL.-->
+<!--  * Lineups are manually updated by RotoGrinders in the event of injuries and news updates.-->
 
-### Notes
-
-* RotoGrinder Notes (https://rotogrinders.com)
-  * The projected optimal lineup is generated each morning at 11 AM ET for MLB, 12 PM ET for NBA, and each week on Wednesdays for NFL.
-  * Lineups are manually updated by RotoGrinders in the event of injuries and news updates.
-
-Disclaimer: FanDuel Lineup Optimizer does not steal any information. You may confirm this by viewing the code at https://github.com/pswami/FanDuel-Lineup-Optimizer. 
+<!--Disclaimer: FanDuel Lineup Optimizer does not steal any information. You may confirm this by viewing the code at https://github.com/pswami/FanDuel-Lineup-Optimizer. -->
